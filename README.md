@@ -16,6 +16,7 @@ This is a curated list for when naming is done right.
 
 - [Design Patterns](#design-patterns)
 - [IT Security](#it-security)
+- [User Interface Design](#user-interface-design)
 - [Other](#other)
 
 ---
@@ -28,6 +29,11 @@ This is a curated list for when naming is done right.
 - [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 - [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
 - [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))
+
+## User Interface Design
+
+- [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/)
+- [Breadcrump](https://en.wikipedia.org/wiki/Breadcrumb_(navigation))
 
 ## Other
 
