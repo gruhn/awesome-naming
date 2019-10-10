@@ -33,7 +33,7 @@ This is a curated list for when naming is done right.
 ## User Interface Design
 
 - [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/)
-- [Breadcrump](https://en.wikipedia.org/wiki/Breadcrumb_(navigation))
+- [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation))
 
 ## Other
 
