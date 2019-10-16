@@ -26,7 +26,8 @@ This is a curated list for when naming is done right.
 
 ## Functions
 
-- [trampoline](https://clojuredocs.org/clojure.core/trampoline)
+- [trampoline](https://clojuredocs.org/clojure.core/trampoline) 
+- [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip)
 
 ## IT Security
 
