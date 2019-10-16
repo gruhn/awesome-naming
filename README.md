@@ -15,6 +15,7 @@ This is a curated list for when naming is done right.
 ## Contents 
 
 - [Design Patterns](#design-patterns)
+- [Functions](#functions)
 - [IT Security](#it-security)
 - [User Interface Design](#user-interface-design)
 - [Other](#other)
@@ -22,6 +23,10 @@ This is a curated list for when naming is done right.
 ---
 
 ## Design Patterns
+
+## Functions
+
+- [trampoline](https://clojuredocs.org/clojure.core/trampoline)
 
 ## IT Security
 
