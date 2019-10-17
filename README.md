@@ -35,6 +35,7 @@ This is a curated list for when naming is done right.
 - [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 - [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
 - [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))
+- [Backdoor](https://en.m.wikipedia.org/wiki/Backdoor_(computing))
 
 ## User Interface Design
 
