@@ -14,6 +14,7 @@ This is a curated list for when naming things is done right.
 
 ## Contents 
 
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Design Patterns](#design-patterns)
 - [Functions](#functions)
 - [IT Security](#it-security)
@@ -22,6 +23,10 @@ This is a curated list for when naming things is done right.
 - [Other](#other)
 
 ---
+
+## Data Structures and Algorithms
+
+- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Data structure that only supports two operations: 1) adding a single object, and 2) removing the most recently added object. Analogy to a stack of (heavy/bulky) physical objects.
 
 ## Design Patterns
 
