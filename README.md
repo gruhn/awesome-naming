@@ -17,6 +17,7 @@ This is a curated list for when naming things is done right.
 - [Design Patterns](#design-patterns)
 - [Functions](#functions)
 - [IT Security](#it-security)
+- [Software](#software)
 - [User Interface Elements](#user-interface-elements)
 - [Other](#other)
 
@@ -36,6 +37,10 @@ This is a curated list for when naming things is done right.
 - [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A save and isolated environment to test unverified programs that may contain malicious code.
 - [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) - Part of a system meant to look like an attractive target but actually helps detect and deflect attackers.
 - [Backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)) - A method of bypassing normal authentication in a computer system.
+
+## Software
+
+- [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It comes with a crash recovery plugin called _golden retreiver_.
 
 ## User Interface Elements
 
