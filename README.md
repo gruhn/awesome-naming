@@ -30,6 +30,9 @@ This is a curated list for when naming things is done right.
 
 ## Design Patterns
 
+- [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) - Allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
+- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code.
+
 ## Functions
 
 - [trampoline](https://clojuredocs.org/clojure.core/trampoline) - Continuously runs functions which itself return functions. Like a child on a trampoline that _returns_ and bounces back up. 
