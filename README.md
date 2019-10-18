@@ -52,8 +52,9 @@ This is a curated list for when naming things is done right.
 
 ## User Interface Elements
 
-- [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - A kind of animated slideshow looping back on itself.
 - [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation)) - Navigational aid allowing users to keep track of their location within programs, documents, or websites. The term is a reference to the fairy tale _Hansel and Gretel_.
+- [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - A kind of animated slideshow looping back on itself.
+- [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) - The metaphorical top of the user's desk, upon which objects such as documents and folders of documents can be placed.
 
 ## Other
 
