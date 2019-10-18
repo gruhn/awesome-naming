@@ -49,7 +49,7 @@ This is a curated list for when naming things is done right.
 
 ## Other
 
-- [ACID vs. BASE](https://en.wikipedia.org/wiki/CAP_theorem) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL). 
+- [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL). 
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - Different case styles where the name illustrates its appearance.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - A hidden feature especially in video games in reference to an Easter egg hunt.
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - A problem where a process is perpetually denied resources to do its work.
