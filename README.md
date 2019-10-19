@@ -43,7 +43,7 @@ This is a curated list for when naming things is done right.
 
 - [Computer Virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self replicates by _infacting_ other computer programs similar to the behavior of biological viruses.
 - [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse. 
-- [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A save and isolated environment to test unverified programs that may contain malicious code.
+- [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A safe and isolated environment to test unverified programs that may contain malicious code.
 - [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) - Part of a system meant to look like an attractive target but actually helps detect and deflect attackers.
 - [Backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)) - A method of bypassing normal authentication in a computer system.
 
