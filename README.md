@@ -1,12 +1,14 @@
 # Awesome Naming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!-- lint disable no-repeat-punctuation -->
 Famously...
+<!-- lint enable no-repeat-punctuation -->
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
 > 
 > -- Phil Karlton
 
-Concepts in Computer Science are usually nothing tangible so it's no surprise that naming things is hard.
+Concepts in computer science are usually nothing tangible so it's no surprise that naming things is hard.
 Nevertheless, we _do_ come up with clever, creative and funny names.
 Some of them so established, we never pause and admire.
 
