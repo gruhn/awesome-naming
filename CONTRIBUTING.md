@@ -10,6 +10,8 @@ When submitting a new name update the README like this:
 
 Add a section if needed and add the title to the table of contents.
 
+When you add a name or a section make sure to maintian alphabetical order.
+
 Permitted is everything related to IT and computer science (specific projects, design patterns, programming idioms, ...).
 
 You may also: 
