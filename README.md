@@ -26,6 +26,7 @@ This is a curated list for when naming things is done right.
 
 ## Data Structures and Algorithms
 
+- [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best looking option without thinking too much about past and future decisions.
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Data structure that only supports two operations: 1) adding a single object, and 2) removing the most recently added object. Analogy to a stack of (heavy/bulky) physical objects.
 
 ## Design Patterns
