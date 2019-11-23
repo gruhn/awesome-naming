@@ -42,11 +42,12 @@ This is a curated list for when naming things is done right.
 
 ## IT Security
 
-- [Computer Virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self replicates by _infacting_ other computer programs similar to the behavior of biological viruses.
-- [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse. 
-- [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A safe and isolated environment to test unverified programs that may contain malicious code.
-- [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) - Part of a system meant to look like an attractive target but actually helps detect and deflect attackers.
 - [Backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)) - A method of bypassing normal authentication in a computer system.
+- [Computer virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self replicates by _infacting_ other computer programs similar to the behavior of biological viruses.
+- [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) - Part of a system meant to look like an attractive target but actually helps detect and deflect attackers.
+- [Phoning home](https://en.wikipedia.org/wiki/Phoning_home) - When a system (e.g. stolen computer) secretly reports back to a third party other than the current possessor. The name is a reference to the movie E.T.
+- [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A safe and isolated environment to test unverified programs that may contain malicious code.
+- [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse. 
 
 ## Software
 
