@@ -17,7 +17,7 @@ This is a curated list for when naming things is done right.
 ## Contents 
 
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Design Patterns](#design-patterns)
+- [Design Patterns and Anti Patterns](#design-patterns-and-anti-patterns)
 - [Functions](#functions)
 - [IT Security](#it-security)
 - [Libraries and Frameworks](#libraries-and-frameworks)
@@ -29,13 +29,17 @@ This is a curated list for when naming things is done right.
 ## Data Structures and Algorithms
 
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best looking option without thinking too much about past and future decisions.
-- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Data structure that only supports two operations: 1) adding a single object, and 2) removing the most recently added object. Analogy to a stack of (heavy/bulky) physical objects.
+- [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items come first when they already have "friends waiting in line".
+- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Like with a stack of pancakes you can only add and remove items from the top of this data structure.
+- [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) - A hierarchically organized data structure. From the _root_ item the other items _branch out_ into _nodes_ and _leaves_.
+- [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) - In this data structure items are always added at the end and removed at the front as if the items were waiting in line.
 
-## Design Patterns
+## Design Patterns and Anti Patterns
 
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) - Allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
-- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code.
+- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises) - A representation of a result that is available in the future, unless there are errors. Like in reality, promises are broken sometimes.
+- [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming anitpattern where in a single change you wildly add code everywhere in your codebase.
 
 ## Functions
 
@@ -56,7 +60,7 @@ This is a curated list for when naming things is done right.
 ## Libraries and Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
-- [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It comes with a crash recovery plugin called _golden retreiver_.
+- [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _golden retreiver_.
 
 ## User Interface Elements
 
