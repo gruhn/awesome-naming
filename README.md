@@ -73,6 +73,7 @@ This is a curated list for when naming things is done right.
 ## Theoretical Computer Science
 
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more general, finding complete subgraphs.
+- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game without players and nearly no rules which nevertheless produces astonishing complexity.
 
 ## Other
 
