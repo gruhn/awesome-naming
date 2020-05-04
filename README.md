@@ -6,7 +6,7 @@ Famously...
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
 > 
-> -- Phil Karlton
+> ― Phil Karlton
 
 Concepts in computer science are usually nothing tangible so it's no surprise that naming things is hard.
 Nevertheless, we _do_ come up with clever, creative and funny names.
@@ -21,6 +21,7 @@ This is a curated list for when naming things is done right.
 - [Functions](#functions)
 - [IT Security](#it-security)
 - [Libraries and Frameworks](#libraries-and-frameworks)
+- [Machine Learning](#machine-learning)
 - [Theoretical Computer Science](#theoretical-computer-science) 
 - [User Interface Elements](#user-interface-elements)
 - [Other](#other)
@@ -62,6 +63,10 @@ This is a curated list for when naming things is done right.
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 - [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _golden retreiver_.
+
+## Machine Learning
+
+- [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not. 
 
 ## User Interface Elements
 
