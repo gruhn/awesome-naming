@@ -66,6 +66,7 @@ This is a curated list for when naming things is done right.
 
 ## Machine Learning
 
+- [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 - [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not. 
 
 ## User Interface Elements
