@@ -23,7 +23,7 @@ This is a curated list for when naming things is done right.
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Machine Learning](#machine-learning)
 - [Theoretical Computer Science](#theoretical-computer-science) 
-- [User Interface Elements](#user-interface-elements)
+- [User Interface Design](#user-interface-design)
 - [Other](#other)
 
 ---
@@ -69,12 +69,14 @@ This is a curated list for when naming things is done right.
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 - [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not. 
 
-## User Interface Elements
+## User Interface Design
 
 - [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation)) - Navigational aid allowing users to keep track of their location within programs, documents, or websites. The term is a reference to the fairy tale _Hansel and Gretel_.
 - [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - A kind of animated slideshow looping back on itself.
 - [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) - The metaphorical top of the user's desk, upon which objects such as documents and folders of documents can be placed.
 - [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) - A button to toggle a menu. The associated icon resembles a hamburger.
+- [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully thereby improving the perceived performance.
+- [Scrolling](https://en.wikipedia.org/wiki/Scrolling) - Screen content is often less like a book with discrete pages and more like a continuous roll of parchment, i.e. a scroll.
 
 ## Theoretical Computer Science
 
@@ -90,7 +92,6 @@ This is a curated list for when naming things is done right.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
-- [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully thereby improving the perceived performance.
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - A problem where a process is perpetually denied resources to do its work.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - Stepping back in time through source code to understand execution and sometimes even to change history.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - Shake the dependency tree until all the dead parts are falling off and you end up with a nice lean tree.
