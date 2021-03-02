@@ -91,6 +91,7 @@ This is a curated list for when naming things is done right.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point _float_ instead of being fixed in place.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development.
+- [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
