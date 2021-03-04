@@ -31,6 +31,7 @@ This is a curated list for when naming things is done right.
 ## Data Structures and Algorithms
 
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best looking option without thinking too much about past and future decisions.
+- [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills though. 
 - [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can *cut in line* when they *have already waiting friends*.
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Like with a stack of pancakes you can only add and remove items from the top of this data structure.
 - [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) - A hierarchically organized data structure. From the _root_ item the other items _branch out_ into _nodes_ and _leaves_.
