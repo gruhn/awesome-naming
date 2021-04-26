@@ -64,6 +64,7 @@ This is a curated list for when naming things is done right.
 ## Libraries and Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
+- [Uglify](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes code readable and pretty to make smaller.
 - [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _Golden Retriever_.
 
 ## Machine Learning
