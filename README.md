@@ -85,6 +85,7 @@ This is a curated list for when naming things is done right.
 
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more general, finding complete subgraphs.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game without players and nearly no rules which nevertheless produces astonishing complexity.
+- [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be _pumped_ with repetitions of its substring and the result stays in the same formal language.
 
 ## Other
 
