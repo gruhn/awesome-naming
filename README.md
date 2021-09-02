@@ -63,7 +63,6 @@ This is a curated list for when naming things is done right.
 
 ## Libraries and Frameworks
 
-- [Clojure](https://de.wikipedia.org/wiki/Clojure) - A functional programming language called **closure** but with **j** because it's running on the Java virtual machine.
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 - [Uglify](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 - [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _Golden Retriever_.
@@ -72,6 +71,11 @@ This is a curated list for when naming things is done right.
 
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 - [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not. 
+
+## Programming Languages
+
+- [Clojure](https://de.wikipedia.org/wiki/Clojure) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - The successor of **C** indicated by the iconic increment operator **++**.
 
 ## User Interface Design
 
