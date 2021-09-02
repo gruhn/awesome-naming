@@ -74,7 +74,7 @@ This is a curated list for when naming things is done right.
 
 ## Programming Languages
 
-- [Clojure](https://de.wikipedia.org/wiki/Clojure) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
+- [Clojure](https://clojure.org/) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - The successor of **C** indicated by the iconic increment operator **++**.
 
 ## User Interface Design
