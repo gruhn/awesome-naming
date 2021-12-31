@@ -23,6 +23,7 @@ This is a curated list for when naming things is done right.
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Machine Learning](#machine-learning)
 - [Theoretical Computer Science](#theoretical-computer-science) 
+- [Tools](#tools)
 - [User Interface Design](#user-interface-design)
 - [Other](#other)
 
@@ -94,6 +95,10 @@ This is a curated list for when naming things is done right.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game world that showcases how astonishing complexity can arise from very simple ingredients.
 - [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem. 
 - [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be _pumped_ with repetitions of its substring and the result stays in the same formal language.
+
+## Tools
+
+- [tldr](https://tldr.sh/) - Simplified man pages with pratical examples.
 
 ## Other
 
