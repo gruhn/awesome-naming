@@ -98,7 +98,8 @@ This is a curated list for when naming things is done right.
 
 ## Tools
 
-- [tldr](https://tldr.sh/) - Simplified man pages with pratical examples.
+- [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
+- [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
 
 ## Other
 
