@@ -103,6 +103,7 @@ This is a curated list for when naming things is done right.
 
 ## Other
 
+- [a11y, i18n, k8s, ...](https://en.wikipedia.org/wiki/Numeronym) - Abbreviating long words by keeping the first and last letter and writing the number of omitted letters in between. 
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL). 
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - Different case styles where the name illustrates its appearance.
