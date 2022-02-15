@@ -106,6 +106,7 @@ This is a curated list for when naming things is done right.
 - [a11y, i18n, k8s, ...](https://en.wikipedia.org/wiki/Numeronym) - Abbreviating long words by keeping the first and last letter and writing the number of omitted letters in between. 
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL). 
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
+- [Brick](https://en.m.wikipedia.org/wiki/Brick_(electronics)) - When your device is so corrupted it virtually turns into a brick.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - Different case styles where the name illustrates its appearance.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point _float_ instead of being fixed in place.
