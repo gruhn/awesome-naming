@@ -31,6 +31,7 @@ This is a curated list for when naming things is done right.
 
 ## Data Structures and Algorithms
 
+- [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - When you explore a search space and you reach a dead end, you follow your *tracks* back to the last crossroad and try the other way. 
 - [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - Violence is actually almost always a solution but not a very clever one.
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best looking option without thinking too much about past and future decisions.
 - [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills though. 
