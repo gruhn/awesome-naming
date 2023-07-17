@@ -93,6 +93,7 @@ This is a curated list for when naming things is done right.
 
 ## Theoretical Computer Science
 
+- [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanly large, no other algorithm can keep up with them.
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more general, finding complete subgraphs.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game world that showcases how astonishing complexity can arise from very simple ingredients.
 - [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem. 
