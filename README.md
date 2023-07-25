@@ -21,7 +21,7 @@ This is a curated list for when naming things is done right.
 - [Functions](#functions)
 - [IT Security](#it-security)
 - [Libraries and Frameworks](#libraries-and-frameworks)
-- [Machine Learning](#machine-learning)
+- [Machine Learning and Artificial Intelligence](#machine-learning-and-artificial-intelligence)
 - [Theoretical Computer Science](#theoretical-computer-science) 
 - [Tools](#tools)
 - [User Interface Design](#user-interface-design)
@@ -70,10 +70,12 @@ This is a curated list for when naming things is done right.
 - [Uglify](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 - [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _Golden Retriever_.
 
-## Machine Learning
+## Machine Learning and Artificial Intelligence
 
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 - [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not.
+- [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent. 
+- [Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) - A confident response by an AI that does not seem to be justified by its training data.
 - [Training](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets) - The process of showing the machine a bunch of examples, until it learns what we want from it.
 
 ## Programming Languages
