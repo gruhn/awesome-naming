@@ -133,3 +133,4 @@ This is a curated list for when naming things is done right.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - Shake the dependency tree until all the dead parts are falling off and you end up with a nice lean tree.
 - [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - A program that outputs all even numbers and then all odd numbers generates an unfair enumeration of the natural numbers because some numbers are never reached. 
 - [Yoda condition](https://eslint.org/docs/latest/rules/yoda) - When you write `if ("red" === color) {` instead of `if (color === "red") {` because it reads as, “if red equals the color”, similar to the way the Star Wars character Yoda speaks.
+- [Hydra](computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix is made, introduces multiple new bugs. It's a bug that cannot be fixed.
