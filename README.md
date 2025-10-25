@@ -16,6 +16,7 @@ This is a curated list for when naming things is done right.
 
 ## Contents 
 
+- [Computer Graphics](#computer-graphics)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Design Patterns and Anti Patterns](#design-patterns-and-anti-patterns)
 - [Functions](#functions)
@@ -28,6 +29,10 @@ This is a curated list for when naming things is done right.
 - [Other](#other)
 
 ---
+
+## Computer Graphics
+
+- [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points. 
 
 ## Data Structures and Algorithms
 
