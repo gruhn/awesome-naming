@@ -5,7 +5,7 @@ Famously...
 <!-- lint enable no-repeat-punctuation -->
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
-> 
+>
 > ― Phil Karlton
 
 Concepts in computer science are usually nothing tangible so it's no surprise that naming things is hard.
@@ -14,7 +14,7 @@ Some of them so established, we never pause and admire.
 
 This is a curated list for when naming things is done right.
 
-## Contents 
+## Contents
 
 - [Computer Graphics](#computer-graphics)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -23,7 +23,7 @@ This is a curated list for when naming things is done right.
 - [IT Security](#it-security)
 - [Machine Learning and Artificial Intelligence](#machine-learning-and-artificial-intelligence)
 - [Programming Languages and Programming Language Theory](#programming-languages-and-programming-language-theory)
-- [Theoretical Computer Science](#theoretical-computer-science) 
+- [Theoretical Computer Science](#theoretical-computer-science)
 - [Tools, Applications, Libraries, Frameworks](#tools-applications-libraries-frameworks)
 - [User Interface Design](#user-interface-design)
 - [Other](#other)
@@ -32,15 +32,17 @@ This is a curated list for when naming things is done right.
 
 ## Computer Graphics
 
-- [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points. 
+- [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points.
 
 ## Data Structures and Algorithms
 
-- [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - When you explore a search space and you reach a dead end, you follow your *tracks* back to the last crossroad and try the other way. 
+- [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - When you explore a search space and you reach a dead end, you follow your *tracks* back to the last crossroad and try the other way.
 - [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - Violence is actually almost always a solution, but not a very clever one.
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best-looking option without thinking too much about past and future decisions.
-- [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions, you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills, though. 
+- [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions, you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills, though.
 - [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can *cut in line* when they *have already waiting friends*.
+- [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) - An ancient algorithm for finding all prime numbers up to a given limit. Non-primes are methodically sifted out, like unwanted material filtered through a sieve.
+- [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) - An optimization algorithm inspired by the metallurgical process of annealing, where slowly cooling a heated material allows it to settle into a low-energy, globally optimal state.
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Like with a stack of pancakes, you can only add and remove items from the top of this data structure.
 - [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) - A hierarchically organized data structure. From the _root_ item, the other items _branch out_ into _nodes_ and _leaves_. A collection of trees is often called a *forest*.
 - [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) - In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.
@@ -48,7 +50,9 @@ This is a curated list for when naming things is done right.
 ## Design Patterns and Anti-Patterns
 
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) - Allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
+- [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern) - Adds new responsibilities to an object by wrapping it in a layer of additional behavior, just as you can decorate a room without changing its walls.
 - [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
+- [God object](https://en.wikipedia.org/wiki/God_object) - An anti-pattern where a single object knows too much or does too much. Like a god, it is omniscient and omnipotent.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises) - A representation of a result that is available in the future, unless there are errors. Like in reality, promises are broken sometimes.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming antipattern where, in a single change, you wildly add code everywhere in your codebase.
 - [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
@@ -57,12 +61,13 @@ This is a curated list for when naming things is done right.
 
 - [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)) - Like a blanket being folded up, this function iterates a collection and in each step combines the current item with everything that has already been folded.
 - [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
-- [trampoline](https://clojuredocs.org/clojure.core/trampoline) - Continuously runs functions that themselves return functions. Like a child on a trampoline that _returns_ and bounces back up. 
+- [trampoline](https://clojuredocs.org/clojure.core/trampoline) - Continuously runs functions that themselves return functions. Like a child on a trampoline that _returns_ and bounces back up.
 - [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) - Merges two lists into one list of pairs like the interlocking teeth of a zipper.
 
 ## IT Security
 
 - [Backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)) - A method of bypassing normal authentication in a computer system.
+- [Canary](https://en.wikipedia.org/wiki/Stack_canary) - A secret value placed on the stack to detect buffer overflow attacks. If it has been altered, danger is near — just like a canary in a coal mine that warns miners of toxic gas.
 - [Computer virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self-replicates by _infecting_ other computer programs, similar to the behavior of biological viruses.
 - [Cyber hygiene](https://digitalguardian.com/blog/what-cyber-hygiene-definition-cyber-hygiene-benefits-best-practices-and-more) - Steps and practices that users should take to maintain system health and improve online security.
 - [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) - Part of a system meant to look like an attractive target but actually helps detect and deflect attackers.
@@ -70,13 +75,15 @@ This is a curated list for when naming things is done right.
 - [Phoning home](https://en.wikipedia.org/wiki/Phoning_home) - When a system (e.g. stolen computer) secretly reports back to a third party other than the current possessor. The name is a reference to the movie E.T.
 - [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A safe and isolated environment to test unverified programs that may contain malicious code.
 - [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate
-- [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse. 
+- [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse.
 
 ## Machine Learning and Artificial Intelligence
 
+- [Attention](https://en.wikipedia.org/wiki/Attention_(machine_learning)) - A mechanism allowing models to selectively focus on the most relevant parts of their input, just as humans direct their attention to what matters most.
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifier's "confusion", i.e., how often it thought to make correct predictions when it actually didn't.
 - [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not.
-- [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent. 
+- [Dropout](https://en.wikipedia.org/wiki/Dropout_(neural_networks)) - Randomly disabling neurons during training to prevent overfitting. Like a sports team that improves by practicing with random members absent.
+- [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent.
 - [Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) - A confident response by an AI that does not seem to be justified by its training data.
 - [Training](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets) - The process of showing the machine a bunch of examples, until it learns what we want from it.
 
@@ -99,19 +106,20 @@ This is a curated list for when naming things is done right.
 - [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) - A button to toggle a menu. The associated icon resembles a hamburger.
 - [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully, thereby improving the perceived performance.
 - [Scrolling](https://en.wikipedia.org/wiki/Scrolling) - Screen content is often less like a book with discrete pages and more like a continuous roll of parchment, i.e., a scroll.
+- [Toast notification](https://en.wikipedia.org/wiki/Pop-up_notification) - A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.
 
 ## Theoretical Computer Science
 
 - [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanely large, no other algorithm can keep up with them.
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more generally, finding complete subgraphs.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game world that showcases how astonishing complexity can arise from very simple ingredients.
-- [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undecidable questions like the halting problem. 
+- [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undecidable questions like the halting problem.
 - [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be _pumped_ with repetitions of its substring and the result stays in the same formal language.
 
 ## Tools, Applications, Libraries, Frameworks
 
 - [bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
-- [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping". 
+- [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney, who is also an actor.
 - [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault-tolerant and resilient as a cockroach.
 - [corrosion](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
@@ -128,7 +136,7 @@ This is a curated list for when naming things is done right.
 
 ## Other
 
-- [a11y, i18n, k8s, ...](https://en.wikipedia.org/wiki/Numeronym) - Abbreviating long words by keeping the first and last letter and writing the number of omitted letters in between. 
+- [a11y, i18n, k8s, ...](https://en.wikipedia.org/wiki/Numeronym) - Abbreviating long words by keeping the first and last letter and writing the number of omitted letters in between.
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL). Note that acid and base are also opposites in chemistry.
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
 - [Brick](https://en.m.wikipedia.org/wiki/Brick_(electronics)) - When your device is so corrupted, it virtually turns into a brick.
@@ -140,11 +148,13 @@ This is a curated list for when naming things is done right.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with a limited amount of digits by letting the radix point _float_ instead of being fixed in place.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture), frameworks provide a basic structure to build upon, guiding and constraining further development.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface, but you can always glue them together.
+- [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_(computing)) - A periodic signal a system sends to confirm it is still alive and functioning, just like a pulse.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg, who discovered that the act of observing quantum systems inevitably alters their state.
 - [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix it is made, introduces multiple new bugs. It's a bug that cannot be fixed.
 - [Magic](https://en.wikipedia.org/wiki/Magic_(programming)) - A magic program/piece of code is doing its job, but nobody knows how. Like in reality, magic doesn't actually exist. Once you understand it, it's not magic anymore.
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - A problem where a process is perpetually denied resources to do its work.
+- [Technical debt](https://en.wikipedia.org/wiki/Technical_debt) - The implied future cost of shortcuts taken today, which accumulates like financial debt and must eventually be paid back — often with interest.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - Stepping back in time through source code to understand execution and sometimes even to change history.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - Shake the dependency tree until all the dead parts are falling off and you end up with a nice lean tree.
-- [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - A program that outputs all even numbers and then all odd numbers generates an unfair enumeration of the natural numbers because some numbers are never reached. 
+- [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - A program that outputs all even numbers and then all odd numbers generates an unfair enumeration of the natural numbers because some numbers are never reached.
 - [Yoda condition](https://eslint.org/docs/latest/rules/yoda) - When you write `if ("red" === color) {` instead of `if (color === "red") {` because it reads as, “if red equals the color”, similar to the way the Star Wars character Yoda speaks.
