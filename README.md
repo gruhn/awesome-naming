@@ -18,7 +18,7 @@ This is a curated list for when naming things is done right.
 
 - [Computer Graphics](#computer-graphics)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Design Patterns and Anti Patterns](#design-patterns-and-anti-patterns)
+- [Design Patterns and Anti-Patterns](#design-patterns-and-anti-patterns)
 - [Functions](#functions)
 - [IT Security](#it-security)
 - [Machine Learning and Artificial Intelligence](#machine-learning-and-artificial-intelligence)
@@ -36,16 +36,16 @@ This is a curated list for when naming things is done right.
 
 ## Data Structures and Algorithms
 
-- [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - When you explore a search space and you reach a dead end, you follow your *tracks* back to the last crossroad and try the other way.
+- [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - When you explore a search space and you reach a dead end, you follow your _tracks_ back to the last crossroad and try the other way.
 - [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - Violence is actually almost always a solution, but not a very clever one.
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best-looking option without thinking too much about past and future decisions.
 - [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions, you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills, though.
-- [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can *cut in line* when they *have already waiting friends*.
+- [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can _cut in line_ when they _already have waiting friends_.
+- [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) - In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.
 - [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) - An ancient algorithm for finding all prime numbers up to a given limit. Non-primes are methodically sifted out, like unwanted material filtered through a sieve.
 - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) - An optimization algorithm inspired by the metallurgical process of annealing, where slowly cooling a heated material allows it to settle into a low-energy, globally optimal state.
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Like with a stack of pancakes, you can only add and remove items from the top of this data structure.
-- [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) - A hierarchically organized data structure. From the _root_ item, the other items _branch out_ into _nodes_ and _leaves_. A collection of trees is often called a *forest*.
-- [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) - In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.
+- [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) - A hierarchically organized data structure. From the _root_ item, the other items _branch out_ into _nodes_ and _leaves_. A collection of trees is often called a _forest_.
 
 ## Design Patterns and Anti-Patterns
 
@@ -55,7 +55,7 @@ This is a curated list for when naming things is done right.
 - [God object](https://en.wikipedia.org/wiki/God_object) - An anti-pattern where a single object knows too much or does too much. Like a god, it is omniscient and omnipotent.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises) - A representation of a result that is available in the future, unless there are errors. Like in reality, promises are broken sometimes.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming antipattern where, in a single change, you wildly add code everywhere in your codebase.
-- [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
+- [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow structure.
 
 ## Functions
 
@@ -74,7 +74,7 @@ This is a curated list for when naming things is done right.
 - [Phishing](https://en.wikipedia.org/wiki/Phishing) - Refers to the use of lures to "fish" for sensitive information.
 - [Phoning home](https://en.wikipedia.org/wiki/Phoning_home) - When a system (e.g. stolen computer) secretly reports back to a third party other than the current possessor. The name is a reference to the movie E.T.
 - [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - A safe and isolated environment to test unverified programs that may contain malicious code.
-- [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate
+- [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate.
 - [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse.
 
 ## Machine Learning and Artificial Intelligence
@@ -96,18 +96,6 @@ This is a curated list for when naming things is done right.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation strategy which suspends evaluation until it's absolutely necessary and then never does it again.
 - [Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) - Syntax that makes the language "sweeter" for human use. Usually a shorthand for common operations that can also be expressed in a more verbose form.
 
-## User Interface Design
-
-- [Bento layout](https://www.saasframe.io/blog/the-bento-layout-trend) - A grid-based layout resembling the compartmentation of bento boxes.
-- [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation)) - Navigational aid allowing users to keep track of their location within programs, documents, or websites. The term is a reference to the fairy tale _Hansel and Gretel_.
-- [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - A kind of animated slideshow looping back on itself.
-- [Clipboard](https://en.wikipedia.org/wiki/Clipboard_(computing)) - Where you temporarily put _files_ you are working with (i.e. the copy & paste buffer).
-- [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) - The metaphorical top of the user's desk, upon which objects such as documents and folders of documents can be placed.
-- [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) - A button to toggle a menu. The associated icon resembles a hamburger.
-- [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully, thereby improving the perceived performance.
-- [Scrolling](https://en.wikipedia.org/wiki/Scrolling) - Screen content is often less like a book with discrete pages and more like a continuous roll of parchment, i.e., a scroll.
-- [Toast notification](https://en.wikipedia.org/wiki/Pop-up_notification) - A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.
-
 ## Theoretical Computer Science
 
 - [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanely large, no other algorithm can keep up with them.
@@ -119,20 +107,32 @@ This is a curated list for when naming things is done right.
 ## Tools, Applications, Libraries, Frameworks
 
 - [bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
-- [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
+- [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep macOS from "sleeping".
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney, who is also an actor.
 - [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault-tolerant and resilient as a cockroach.
 - [corrosion](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
-- [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Baysian inferance.
-- [go-brrr](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
+- [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Bayesian inference.
+- [go-brrr](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the _br_otli compression algorithm. Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
 - [horcrux](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) - Web browser developed by Apple.
 - [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 - [Uglify](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 - [uppy](https://github.com/transloadit/uppy) - A dog-themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _Golden Retriever_.
-- [Webpack](https://webpack.js.org/) - A bundler for JavaScript and other *web* assets with a short and descriptive name that also somewhat rhymes.
-- [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
+- [Webpack](https://webpack.js.org/) - A bundler for JavaScript and other _web_ assets with a short and descriptive name that also somewhat rhymes.
+- [yarn](https://yarnpkg.com/) - Node.js dependency manager.
+
+## User Interface Design
+
+- [Bento layout](https://www.saasframe.io/blog/the-bento-layout-trend) - A grid-based layout resembling the compartmentation of bento boxes.
+- [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation)) - Navigational aid allowing users to keep track of their location within programs, documents, or websites. The term is a reference to the fairy tale _Hansel and Gretel_.
+- [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - A kind of animated slideshow looping back on itself.
+- [Clipboard](https://en.wikipedia.org/wiki/Clipboard_(computing)) - Where you temporarily put _files_ you are working with (i.e. the copy & paste buffer).
+- [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) - The metaphorical top of the user's desk, upon which objects such as documents and folders of documents can be placed.
+- [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) - A button to toggle a menu. The associated icon resembles a hamburger.
+- [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully, thereby improving the perceived performance.
+- [Scrolling](https://en.wikipedia.org/wiki/Scrolling) - Screen content is often less like a book with discrete pages and more like a continuous roll of parchment, i.e., a scroll.
+- [Toast notification](https://en.wikipedia.org/wiki/Pop-up_notification) - A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.
 
 ## Other
 
