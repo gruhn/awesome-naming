@@ -115,6 +115,7 @@ This is a curated list for when naming things is done right.
 - [go-brrr](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the _br_otli compression algorithm. Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
 - [horcrux](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+- [ratatui](https://ratatui.rs/) - A framework for creating TUIs. Also a pun on the movie Ratatouille about a chef rat, which is itself a pun on the french vegetable dish Ratatouille.
 - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) - Web browser developed by Apple.
 - [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 - [Uglify](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
